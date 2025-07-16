@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-# Last forced update: 2025-07-16T14:52:37.470662Z
+# Last forced update: 2025-07-16T13:58:45.700041Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -2458,6 +2458,8 @@ http://vthanh.utako.moe/abc/index.m3u8
 http://vthanh.utako.moe/Animax/index.m3u8
 #EXTINF:-1  tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="JapanTV",AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1  tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png" group-title="JapanTV",BS 10 Star Channel
+http://vthanh.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1  tvg-id="BSAsahi.jp" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg" group-title="JapanTV",BS Asahi
 http://vthanh.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1  tvg-id="BSFuji.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png" group-title="JapanTV",BS Fuji
@@ -2484,6 +2486,8 @@ http://vthanh.utako.moe/familygeki/index.m3u8
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1  tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg" group-title="JapanTV",Green Channel
 http://vthanh.utako.moe/green/index.m3u8
+#EXTINF:-1  tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="JapanTV",Home Drama Channel
+http://vthanh.utako.moe/homedrama/index.m3u8
 #EXTINF:-1  tvg-id="Kids.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/3e/Cnlogo.png/revision/latest?cb=20111112142543" group-title="JapanTV",JP | Cartoon Network
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
 #EXTINF:-1  tvg-id="Kids.Dummy.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69c84613-a1a3-4e06-ab40-bb4889dc214a/deyq3dk-28f104e3-ad8c-4ad1-8f7e-9a695bc7d035.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5Yzg0NjEzLWExYTMtNGUwNi1hYjQwLWJiNDg4OWRjMjE0YVwvZGV5cTNkay0yOGYxMDRlMy1hZDhjLTRhZDEtOGY3ZS05YTY5NWJjN2QwMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZZ-KQAVkBD-Mxm2f6gbwgJtx7Hzy309h8qB4vZpC3Dw" group-title="JapanTV",JP | Disney Channel
@@ -2518,6 +2522,8 @@ http://vthanh.utako.moe/kansaitv/index.m3u8
 http://vthanh.utako.moe/kbs/index.m3u8
 #EXTINF:-1  tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JapanTV",MBS
 http://vthanh.utako.moe/mbs/index.m3u8
+#EXTINF:-1  tvg-id="MTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg" group-title="JapanTV",MTV
+http://vthanh.utako.moe/mtv/index.m3u8
 #EXTINF:-1  tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="JapanTV",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1  tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="JapanTV",NHK BS4K
@@ -2526,14 +2532,20 @@ http://vthanh.utako.moe/bsp4k/index.m3u8
 http://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1  tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JapanTV",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1  group-title="JapanTV" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (low latency test)
+#EXTINF:-1  tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JapanTV",NHK G (low latency test)
 http://vthanh.utako.moe/nhkg_fast/index.m3u8
 #EXTINF:-1  tvg-id="NHKWorldJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg" group-title="JapanTV",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1  tvg-id="NHKWorldPremium.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-premium-jp.png" group-title="JapanTV",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1  tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png" group-title="JapanTV",Nihon Eiga Senmon
+http://vthanh.utako.moe/nihon_eiga/index.m3u8
 #EXTINF:-1  tvg-id="JOAXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="JapanTV",NTV
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1  tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="JapanTV",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1  tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg" group-title="JapanTV",Sky A
+http://vthanh.utako.moe/skya/index.m3u8
 #EXTINF:-1  tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg" group-title="JapanTV",Space Shower TV
 http://vthanh.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1  tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png" group-title="JapanTV",SUN
@@ -2550,6 +2562,10 @@ http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1  tvg-id="JOEXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="JapanTV",TV Asahi
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1  tvg-id="TVAsahiChannel1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png" group-title="JapanTV",TV Asahi Channel 1
+http://vthanh.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1  tvg-id="TVAsahiChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png" group-title="JapanTV",TV Asahi Channel 2
+http://vthanh.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1  tvg-id="JOBHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png" group-title="JapanTV",TV Osaka
 http://vthanh.utako.moe/tvo/index.m3u8
 #EXTINF:-1  tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="JapanTV",TV Tokyo
@@ -7100,117 +7116,150 @@ https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
 #EXTGRP:PPVLand - Basketball Hub
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",76ers at Wizards
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Aces at Wings
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzYxODk2OTJkZWY1LTFlOTgtY2ZjNC00OTMwLWI4MGQ4YmQw/master.m3u8?md5=wQSFGY3xE6_-PxMNJp86eA&expires=1752647255&t=1752604055
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Fever at Sun
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Njc3MTc5MGM4NGQyLWQ1YzgtNjRiNC0yNThlLTVkMDZlYjky/master.m3u8?md5=waS257C1LN1fW0LSq1YpZg&expires=1752722456&t=1752679256
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Bucks at Bulls
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1OTM1NjBiYWZmOTI3LTUwNDgtMGMxNC1hOTAwLTVlNTFjZWRi/master.m3u8?md5=z6hJiLTILfiDmf9CdcPGZA&expires=1752647239&t=1752604039
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Mystics at Sparks
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZWZkZGFhMzRhYzA0LTFhZTktM2EzNC1jZWM1LWRlNDlkMjdj/master.m3u8?md5=jHg5_dvbrJRIWBenOsbCmw&expires=1752722432&t=1752679232
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Dream at Sky
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NWUxYzViZGIxYzU3LTUwYzktNmEzNC1kZGI1LTkzNDIxNTJk/master.m3u8?md5=T6xA9h15au_aajxtaapzpg&expires=1752647263&t=1752604063
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Nets at Knicks
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MDEzNjFmNjFkYjBiLTA5NmItNWJkNC0wMDczLTJlNTZjOWQ5/master.m3u8?md5=YvaS7kZ60lKrVHRzGesNXg&expires=1752722388&t=1752679188
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Fever at Liberty
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=yAWvtQLF6Ae7Ai_hryCdJA&expires=1752647222&t=1752604022
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Raptors at Nuggets
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MGFhODhkOTAwM2Q3LTIwYWEtNmE2NC01ZWU0LWRmMDMxMjgw/master.m3u8?md5=l2dpc0w0a8ygz8mTkc-7sw&expires=1752722440&t=1752679240
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Kings at Cavaliers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=Hvlab1VHLMZBiXDsWa736A&expires=1752647248&t=1752604048
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Thunder at Magic
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YWQzYzYzYjM0ZjIyLTcyMDktZmQyNC1iMzU4LTgxODY0ODFk/master.m3u8?md5=d1hM3FGKEgJ_IGEpjs7IDQ&expires=1752722415&t=1752679215
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Magic at Nets
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTRjNjgyYzlkNGYzLTU3ZTktNWE4NC03ZTIxLTIyNmU2NDBj/master.m3u8?md5=t7LC4az_b9fJPm8ahDFdQQ&expires=1752647230&t=1752604030
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Timberwolves at Pistons
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NzcyNWIyZTFmNGE3LWY3NDgtODQ5NC0xYWFiLTFhNmM4ZWY2/master.m3u8?md5=YQCi85mbfO_C0qHX0kK6zA&expires=1752722448&t=1752679248
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Mavericks at 76ers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NTM1Yzg3NTFjMmU3LWI1OGItOWJmNC1iMzM1LWEzN2JlMjE4/master.m3u8?md5=-PWv2AVl-H5_bHVe49jVyA&expires=1752647212&t=1752604012
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Trail Blazers at Pelicans
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjY1YzBmMDZmNGU3LWZiMzgtYWI2NC0wYTJkLTEzMmVjYTdh/master.m3u8?md5=bz-jS2pAzATvyUdT-c-jsw&expires=1752722464&t=1752679264
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Mercury at Lynx
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1M2VhOGNkMDVhMGQ2LWNhMGEtZmYxNC04MTIwLTg2NzQ4Nzkz/master.m3u8?md5=aDclJsCVDUTNEegG2ZqBiQ&expires=1752647271&t=1752604071
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Warriors at Grizzlies
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MDlmNmIyZDdmOWZhLTkwOTgtZGIwNC1hODYzLTRmYjAyOTQ0/master.m3u8?md5=pQo0qiDIOgEfYMTouYYj4w&expires=1752722398&t=1752679198
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Pelicans at Thunder
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1M2Q1MGEyZThiNWQwLThkMzktOGQyNC03NjdiLTE1NTQ2NmI3/master.m3u8?md5=fXlztYGycZjXpPWe50PQKw&expires=1752647279&t=1752604079
-
-#EXTGRP:PPVLand - Global Football Streams
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Accrington Stanley vs Everton
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=ubmo3bmj3BMIFPAhoadPJA&expires=1752722472&t=1752679272
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Suns at Timberwolves
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1OGU0Yzc1ZmFiNmVjLTgyOWEtMjg3NC0xYzgyLWQ5MTQwNGE2/master.m3u8?md5=57cs8bXzi9JpQZMKu5xNzA&expires=1752647287&t=1752604087
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1OTZhMTNmYjM2NzE4LTU3NTktNjRhNC0yN2QyLWYwMDk2OGRk/master.m3u8?md5=hBBViiz5REBrjkBPZVusag&expires=1752722424&t=1752679224
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Valkyries at Storm
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjMwNGFhYzBmNDQwLWFlYTktNjViNC0yZWJkLWQ1OTg3NzZk/master.m3u8?md5=EPaawfCAQsbaniNvO1aKYg&expires=1752722407&t=1752679207
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Wizards at Jazz
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZWM2M2M4NGQzYzk4LTExOTgtZjMzNC1iNThkLWI2ZWEzMjM2/master.m3u8?md5=ztRjgKckIqdwy9bWsemErg&expires=1752722480&t=1752679280
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=SE-pJaMgb-hmhNK-bwFKAQ&expires=1752647374&t=1752604174
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=2aR54YbYLupA6a4n8vkN6Q&expires=1752722564&t=1752679364
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxMTNwEmZwIzM4IzNtkzNjFWLwYTY00iM1AzNtYGNzQGO2EGN/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=6YFKB8StNrJkIdrQdwMy7g&expires=1752647351&t=1752604151
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌‌‌​​​‌‌​‌​​‌‌​‌​‌​‌​​ Guy
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=yEvTOqze8vucj54zCIZ2fw&expires=1752722537&t=1752679337
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=AmTBI9_YzWtkfhFqEvjeHA&expires=1752647359&t=1752604159
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjljZ1MWOkRWN4IjZtcTM5gTL3ADZ00SYjNTOtQmM5M2NyAzM/master.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌​‌​​​​‌‌‌​‌​​​‌​​‌​​‌‌​‌‌​‌​‌ Guy
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=k22E8j79uYVw46RJQPgHpA&expires=1752722546&t=1752679346
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌​‌​​​​‌‌‌​‌​​​‌​​‌​​‌‌​‌‌​‌​‌ Guy
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhBTOlVzNyETY1IDNtQGZllTLlRTZ00iZzUDOtQDMxIGNiJDZ/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=IS9c3pt6Tx3g-7lYNCMnRQ&expires=1752647343&t=1752604143
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=k2GpDwqHfJN5DntpfnqeEQ&expires=1752722528&t=1752679328
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkFmM0MDZlNmM3EzYtUmN5IWL3ETZ00CN1UWOtUjM4YDNxI2M/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=unUiWKVB8eH4iLnSJtIzBg&expires=1752647367&t=1752604167
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=NuWwq25UtkAakVERAewYuw&expires=1752722556&t=1752679356
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwQ2M3ITOxEDNiRDMtUjZiFWLiF2N00CZ5gTZtYmNyUGO0IGO/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",ESPN
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=JaT6_iaeNszRSEI6e2kKdw&expires=1752647335&t=1752604135
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=xLkZ7Y0ZuUJLYW7sdejrhQ&expires=1752722520&t=1752679320
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",ESPN
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L1QDN0UmZlZjMzImNtkjN3IWL4QWZ00iZ5YjNtMjMmRTMzAjZ/master.m3u8
 
 #EXTGRP:PPVLand - Wrestling Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=MTyIagpUHpr5npPny4qSAw&expires=1752647327&t=1752604127
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=gV272nLk2DJAwx0Y4kUdoQ&expires=1752722512&t=1752679312
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Wednesday Night Dynamite
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=6BjvMzghzwtWRbdbzxDhjw&expires=1752647303&t=1752604103
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=8lXLoPFRBzLqZDuelLAfag&expires=1752722488&t=1752679288
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=j2Q2osw9V2bPItTmEfV3_w&expires=1752647311&t=1752604111
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=MZQFA5eG6C0Te-ZQl4rT_Q&expires=1752722496&t=1752679296
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=mnAdvun3Nt1cObW0hq6_FA&expires=1752647319&t=1752604119
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: NXT
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=6cBbqAHavbUSDOa5Pnvqmg&expires=1752647295&t=1752604095
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=KX0cxoOf5kDFOYc8IWiK4g&expires=1752722504&t=1752679304
 
 #EXTGRP:SamsungTVPlus Canada
 #EXTINF:-1  tvg-name="21 Jump Street" tvg-id="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" tvg-chno="1600" group-title="SamsungTVPlus Canada",21 Jump Street
