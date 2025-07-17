@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-# Last forced update: 2025-07-16T23:52:25.842656Z
+# Last forced update: 2025-07-17T01:25:00.853956Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -11146,25 +11146,3 @@ https://ott.udptv.org/stream/skyde/warnertvcomedy/master.m3u8?u=discord.gg/civ4&
 https://ott.udptv.org/stream/skyde/warnertvfilm/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 #EXTINF:-1  tvg-name="Warner TV Serie DE" tvg-id="skyde/warnertvserie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="UDPTV Live Streams",Warner TV Serie DE
 https://ott.udptv.org/stream/skyde/warnertvserie/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
-#EXTGRP:WNBA
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Chicago Sky (07/16 12:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Atlanta Dream @ Chicago Sky (07/16 12:00 Pm Et) Hd
-https://tvpass.org/live/WNBA01/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Chicago Sky (07/16 12:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Atlanta Dream @ Chicago Sky (07/16 12:00 Pm Et) Sd
-https://tvpass.org/live/WNBA01/sd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Golden State Valkyries @ Seattle Storm (07/16 3:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Golden State Valkyries @ Seattle Storm (07/16 3:00 Pm Et) Hd
-https://tvpass.org/live/WNBA03/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Golden State Valkyries @ Seattle Storm (07/16 3:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Golden State Valkyries @ Seattle Storm (07/16 3:00 Pm Et) Sd
-https://tvpass.org/live/WNBA03/sd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Indiana Fever @ New York Liberty (07/16 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Indiana Fever @ New York Liberty (07/16 7:30 Pm Et) Hd
-https://tvpass.org/live/WNBA04/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Indiana Fever @ New York Liberty (07/16 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Indiana Fever @ New York Liberty (07/16 7:30 Pm Et) Sd
-https://tvpass.org/live/WNBA04/sd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Dallas Wings (07/16 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Las Vegas Aces @ Dallas Wings (07/16 8:00 Pm Et) Hd
-https://tvpass.org/live/WNBA05/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Dallas Wings (07/16 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Las Vegas Aces @ Dallas Wings (07/16 8:00 Pm Et) Sd
-https://tvpass.org/live/WNBA05/sd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Phoenix Mercury @ Minnesota Lynx (07/16 1:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Phoenix Mercury @ Minnesota Lynx (07/16 1:00 Pm Et) Hd
-https://tvpass.org/live/WNBA02/hd
-#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Phoenix Mercury @ Minnesota Lynx (07/16 1:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Phoenix Mercury @ Minnesota Lynx (07/16 1:00 Pm Et) Sd
-https://tvpass.org/live/WNBA02/sd
