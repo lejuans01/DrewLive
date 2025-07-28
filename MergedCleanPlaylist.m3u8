@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-# Last forced update: 2025-07-28T20:51:32.789375Z
+# Last forced update: 2025-07-28T20:14:50.329364Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -1386,6 +1386,150 @@ https://ft.fbcdntv247.cfd/memfs/b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c.m3u8
 https://fbcdntv247.cfd/memfs/c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
 #EXTINF:-1  tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH12.png" group-title="Drew247TV",VH1
 https://ft.fbcdntv247.cfd/memfs/c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
+
+#EXTGRP:DrewFX - Classic Rock
+#EXTINF:-1  tvg-name="Classic Rock 103.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2733/files/2021/04/wglx-logo-glow-1024x683.png" group-title="DrewFX - Classic Rock" radio="true",Classic Rock 103.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGLXFMAAC.aac
+#EXTINF:-1  tvg-name="Classic Rock 94.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://townsquare.media/site/693/files/2017/10/wmmqfm-logo.png?w=300&q=75&format=natural" group-title="DrewFX - Classic Rock" radio="true",Classic Rock 94.9
+https://live.amperwave.net/manifest/townsquare-wmmqfmaac-hlsc3.m3u8
+#EXTINF:-1  tvg-name="Classic Rock 98.1" tvg-id="Radio.105.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/KKFMLOGOWEBPNG.png" group-title="DrewFX - Classic Rock" radio="true",Classic Rock 98.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKFMFMAAC.aac
+#EXTINF:-1  tvg-name="Classic Rock 99.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://classicrock995.com/wp-content/uploads/2015/05/logo-460.png" group-title="DrewFX - Classic Rock" radio="true",Classic Rock 99.5
+https://live.amperwave.net/manifest/powell-kkmafmaac-hlsc2.m3u8
+#EXTINF:-1  tvg-name="Classic Rock Florida" tvg-id="Radio.105.Dummy.us" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/cb/b4/4acbb489-406a-bd6a-fc6f-2adef1f95697/source/512x512bb.jpg" group-title="DrewFX - Classic Rock" radio="true",Classic Rock Florida
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.aac
+#EXTINF:-1  tvg-name="Classic Rock WCSX" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/WCSXFM_1137091_config_station_logo_image_1415221612.jpg" group-title="DrewFX - Classic Rock" radio="true",Classic Rock WCSX
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR.aac
+
+#EXTGRP:DrewFX - Hip Hop & R&B
+#EXTINF:-1  tvg-name="011.FM - Hip Hop Hits" tvg-id="Radio.105.Dummy.us" tvg-logo="https://011fm.com/wp-content/uploads/2021/04/011trimmed-white.png" group-title="DrewFX - Hip Hop & R&B" radio="true",011.FM - Hip Hop Hits
+https://streaming.live365.com/a37306
+#EXTINF:-1  tvg-name="100 Hip Hop and RNB FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.com/independent/logos/100hiphopandrnbfm.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",100 Hip Hop and RNB FM
+https://ice64.securenetsystems.net/LFTM
+#EXTINF:-1  tvg-name="100.3 HD 2 RB and Hip Hop" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.com/aud-opsconsole-media-images-prod-prod/PHI-WRNBHD2_121622-1671467410227.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",100.3 HD 2 RB and Hip Hop
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRNBHD2AAC.aac
+#EXTINF:-1  tvg-name="100Hitz - Hip Hop" tvg-id="Radio.105.Dummy.us" tvg-logo="https://100hitz.com/wp-content/uploads/2023/03/100hitz.com-png-08-e1678043645250.png" group-title="DrewFX - Hip Hop & R&B" radio="true",100Hitz - Hip Hop
+https://pureplay.cdnstream1.com/6042_64.aac/playlist.m3u8
+#EXTINF:-1  tvg-name="102 JAMZ" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/WJMHFM_735671_config_station_logo_image.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",102 JAMZ
+https://live.amperwave.net/direct/audacy-wjmhfmaac-imc
+#EXTINF:-1  tvg-name="106 KMEL" tvg-id="Radio.105.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/KMEL_logo.png/800px-KMEL_logo.png" group-title="DrewFX - Hip Hop & R&B" radio="true",106 KMEL
+https://stream.revma.ihrhls.com/zc293
+#EXTINF:-1  tvg-name="92.7 FM Jam Central" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wixstatic.com/media/a31f71_e71cfe156a6a41e285ec40f7b047d5b9~mv2.png/v1/fill/w_176,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png" group-title="DrewFX - Hip Hop & R&B" radio="true",92.7 FM Jam Central
+https://ice42.securenetsystems.net/KZJM
+#EXTINF:-1  tvg-name="92.9 WDUP" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.com/independent/logos/WDUPFM.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",92.9 WDUP
+https://s2.voscast.com:9761/stream
+#EXTINF:-1  tvg-name="93.7 The Beat Houston" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/QKI_P6Ht5fg/maxresdefault.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",93.7 The Beat Houston
+https://stream.revma.ihrhls.com/zc2265
+#EXTINF:-1  tvg-name="94.1 The Beat" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/the-fictional-radio-stations-wiki/images/c/c8/KDOD.png/revision/latest?cb=20240425024532" group-title="DrewFX - Hip Hop & R&B" radio="true",94.1 The Beat
+https://stream.revma.ihrhls.com/zc805
+#EXTINF:-1  tvg-name="95.7 Jamz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1769/2020/10/12160146/Logo.png" group-title="DrewFX - Hip Hop & R&B" radio="true",95.7 Jamz
+https://stream.rcs.revma.com/ws6t0yexu7uvv
+#EXTINF:-1  tvg-name="96.1 The Beat" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.iheart.com/v3/re/assets.brands/5bdb137342f2b3f9adfcf0f9" group-title="DrewFX - Hip Hop & R&B" radio="true",96.1 The Beat
+https://stream.revma.ihrhls.com/zc353/hls.m3u8
+#EXTINF:-1  tvg-name="97.9 The Beat" tvg-id="Radio.105.Dummy.us" tvg-logo="https://thebeatdfw.com/wp-content/uploads/sites/60/2016/01/14533182851832.png" group-title="DrewFX - Hip Hop & R&B" radio="true",97.9 The Beat
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC.aac
+#EXTINF:-1  tvg-name="99 Jams" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.wjmi.com/wp-content/uploads/2019/07/BL3-DefaultThumbnail-600x375-WJMI.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",99 Jams
+https://live.amperwave.net/direct/alphacorporate-wjmifmaac-ibc4
+#EXTINF:-1  tvg-name="All Underground Hip Hop Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/undergroundmafiaradio.png?version=cd7a195aa7d1d1646739743d7edb4bee" group-title="DrewFX - Hip Hop & R&B" radio="true",All Underground Hip Hop Radio
+https://stream.radiojar.com/c1912tk5rtzuv
+#EXTINF:-1  tvg-name="Bestnet Radio - Bomb Beats" tvg-id="Radio.105.Dummy.us" tvg-logo="https://image.live365.com/download/d0547470-63f8-4e3c-ada5-aed979c8a6ce.png/400/image.webp" group-title="DrewFX - Hip Hop & R&B" radio="true",Bestnet Radio - Bomb Beats
+https://streaming.live365.com/a20849
+#EXTINF:-1  tvg-name="Dash Radio - Ice Cube Presents" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/452/ice-cube-presents-big3-radio.0bfe7920.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Dash Radio - Ice Cube Presents
+https://ice55.securenetsystems.net/DASH37
+#EXTINF:-1  tvg-name="Dilema Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dilemaradio.com/wp-content/uploads/2020/06/dilemaradio-logo-mobile.webp" group-title="DrewFX - Hip Hop & R&B" radio="true",Dilema Radio
+https://dilemaradiolive.radioca.st/stream
+#EXTINF:-1  tvg-name="Gangstaville Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s135290/images/logod.png?t=636225822429870000" group-title="DrewFX - Hip Hop & R&B" radio="true",Gangstaville Radio
+https://stream.radio.co/s1cffd7347/listen
+#EXTINF:-1  tvg-name="Got Radio - Soul Kitchen OGs Hip Hop R&B" tvg-id="Radio.105.Dummy.us" tvg-logo="https://gotradio.com/wp-content/uploads/2023/04/Gotradio.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Got Radio - Soul Kitchen OGs Hip Hop R&B
+https://pureplay.cdnstream1.com/6045_64.aac/playlist.m3u8
+#EXTINF:-1  tvg-name="HipHop95" tvg-id="Radio.105.Dummy.us" tvg-logo="https://hiphop95.com/assets/images/logos/hip-hop-95-logo-white-bg.png" group-title="DrewFX - Hip Hop & R&B" radio="true",HipHop95
+https://ice64.securenetsystems.net/HHJRR
+#EXTINF:-1  tvg-name="Hits Radio - Rap Hip Hop" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/hitsradiohiphop.png?version=22257d753736c4e194b71439fed644bd" group-title="DrewFX - Hip Hop & R&B" radio="true",Hits Radio - Rap Hip Hop
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZAAC.aac
+#EXTINF:-1  tvg-name="Hot 102.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Hot_102.9_WDHT.jpg/revision/latest/scale-to-width-down/1200?cb=20191114230317" group-title="DrewFX - Hip Hop & R&B" radio="true",Hot 102.9
+https://live.amperwave.net/manifest/alphacorporate-wdhtfmaac-hlsc4.m3u8
+#EXTINF:-1  tvg-name="Hot 107.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://m.media-amazon.com/images/I/616pfCLqLZL.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Hot 107.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHTAFMAAC.aac
+#EXTINF:-1  tvg-name="Hot 412" tvg-id="Radio.105.Dummy.us" tvg-logo="https://media.live365.com/download/b96d71a6-5b77-4794-a186-29b0739f26ff.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",Hot 412
+https://ice24.securenetsystems.net/HOT412IH
+#EXTINF:-1  tvg-name="Hot 96.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3259/files/2024/08/hot-969c-300x296.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Hot 96.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEZEFMAAC.aac
+#EXTINF:-1  tvg-name="Hot 97.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/KVEGFM_1505871_config_favicon_1524621423.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Hot 97.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVEGFM.mp3
+#EXTINF:-1  tvg-name="KZBT-FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://townsquare.media/site/523/files/2022/07/attachment-256.png" group-title="DrewFX - Hip Hop & R&B" radio="true",KZBT-FM
+https://live.amperwave.net/manifest/townsquare-kzbtfmaac-hlsc3.m3u8
+#EXTINF:-1  tvg-name="KZWA 104.9 FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn.socast.io/9069/sites/6/2024/12/05130114/OFFICIAL-KZWA-LOGO-150x74.jpeg" group-title="DrewFX - Hip Hop & R&B" radio="true",KZWA 104.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dist=onlineradiobox
+#EXTINF:-1  tvg-name="Live 101.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s26822/images/logog.jpg?t=2" group-title="DrewFX - Hip Hop & R&B" radio="true",Live 101.5
+https://live.amperwave.net/direct/audacy-kalvfmaac-imc
+#EXTINF:-1  tvg-name="Loud 101.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://loudradiopa.com/wp-content/uploads/2022/02/loudradiosquare-600x430.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Loud 101.5
+https://ice23.securenetsystems.net/WZWWHD2
+#EXTINF:-1  tvg-name="Loud 103.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s225776/images/logog.png?t=154117" group-title="DrewFX - Hip Hop & R&B" radio="true",Loud 103.3
+https://live.amperwave.net/direct/adamsradio-wjfxhd2aac-ibc1
+#EXTINF:-1  tvg-name="Loud 98.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://loudradiopa.com/wp-content/uploads/2022/02/loug-header-1.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Loud 98.5
+https://ice66.securenetsystems.net/WLEVHD4
+#EXTINF:-1  tvg-name="Majic 94.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://majic945.com/wp-content/uploads/sites/45/2017/09/1505121343869.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Majic 94.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC.aac
+#EXTINF:-1  tvg-name="Power 106.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1418/2020/05/11170817/wyrb_logo_big.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Power 106.3
+https://ais-sa8.cdnstream1.com/p0zbr98vu6z/ct0ziwywwym
+#EXTINF:-1  tvg-name="Power 92" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1278/2019/11/22181838/wpwx-logo.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Power 92
+https://ais-sa8.cdnstream1.com/pptsa5hdbog/cjo5jxmng7u
+#EXTINF:-1  tvg-name="Q93.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/_E1Qjq7SnjE/mqdefault.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",Q93.3
+https://stream.revma.ihrhls.com/zc1037/hls.m3u8
+#EXTINF:-1  tvg-name="Real 92.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/SJ1G8ir61-8/maxresdefault.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",Real 92.3
+https://stream.revma.ihrhls.com/zc181
+#EXTINF:-1  tvg-name="Streetz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://streetz877.com/wp-content/uploads/2022/04/Streetz-877-header.png" group-title="DrewFX - Hip Hop & R&B" radio="true",Streetz
+http://104-6-216-93.lightspeed.tukrga.sbcglobal.net:8000/wmto
+#EXTINF:-1  tvg-name="V101" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s33359/images/logog.jpg?t=4" group-title="DrewFX - Hip Hop & R&B" radio="true",V101
+https://stream.revma.ihrhls.com/zc2121/hls.m3u8
+#EXTINF:-1  tvg-name="WE 102.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.alphamediausa.com/wp-content/uploads/brand/logo/WE_1029_Primary_LightBG.png" group-title="DrewFX - Hip Hop & R&B" radio="true",WE 102.9
+https://live.amperwave.net/direct/alphacorporate-kinkhd2aac-ibc4
+#EXTINF:-1  tvg-name="WGCI-FM 107.5" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/107.5_WGCI.jpg/revision/latest?cb=20150322170739" group-title="DrewFX - Hip Hop & R&B" radio="true",WGCI-FM 107.5
+https://tinyurl.com/wgcifm24
+#EXTINF:-1  tvg-name="WJLB" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i.ytimg.com/vi/LaXiSQ6pnqI/maxresdefault.jpg" group-title="DrewFX - Hip Hop & R&B" radio="true",WJLB
+https://stream.revma.ihrhls.com/zc1141
+#EXTINF:-1  tvg-name="X102.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s30919g.png" group-title="DrewFX - Hip Hop & R&B" radio="true",X102.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMBXFM.mp3
+
+#EXTGRP:DrewFX - House
+#EXTINF:-1  tvg-name="All Groove House" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/allgroovehouse.jpeg?version=" group-title="DrewFX - House" radio="true",All Groove House
+http://cassini.shoutca.st:8179/live
+#EXTINF:-1  tvg-name="Chicago House" tvg-id="Radio.105.Dummy.us" tvg-logo="https://images.radio.co/station_logos/sae989fe39.20201223062053.png" group-title="DrewFX - House" radio="true",Chicago House
+https://stream.radio.co/sae989fe39/listen
+#EXTINF:-1  tvg-name="House Monkeys by Scoutlounge" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s277644g.png" group-title="DrewFX - House" radio="true",House Monkeys by Scoutlounge
+http://kiyi.radioca.st:8118/stream2
+#EXTINF:-1  tvg-name="NYC House Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.nychouseradio.com/wp-content/uploads/LOGO-BLACK-CIRCLE.jpg" group-title="DrewFX - House" radio="true",NYC House Radio
+http://www.ophanim.net:8400/;
+#EXTINF:-1  tvg-name="One Worldwide Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/oneworldradio.png?version=5e057726c634db79edab2931efc0fab5" group-title="DrewFX - House" radio="true",One Worldwide Radio
+https://listen.radioking.com/radio/316403/stream/363812
+#EXTINF:-1  tvg-name="Soma FM - The Trip" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s53127/images/logog.jpg" group-title="DrewFX - House" radio="true",Soma FM - The Trip
+https://ice2.somafm.com/thetrip-32-aac
+#EXTINF:-1  tvg-name="Super Radio Mix - SRM" tvg-id="Radio.105.Dummy.us" tvg-logo="http://superradiomix.com/community/wp-content/uploads/2020/03/Screen-Shot-2020-03-18-at-10.41.16-AM-1.png" group-title="DrewFX - House" radio="true",Super Radio Mix - SRM
+http://www.shoutcastunlimited.com:8148/;
+
+#EXTGRP:DrewFX - Indie
+#EXTINF:-1  tvg-name="Indie SF Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://insomniaradio.net/wp-content/uploads/2008/02/sf.jpg" group-title="DrewFX - Indie" radio="true",Indie SF Radio
+http://359.cloudrad.io:8618/;
+#EXTINF:-1  tvg-name="Indie X FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://img1.wsimg.com/isteam/ip/6b751bf2-5843-4590-8843-d4025327a155/.INDIE%20X%20FM%20Logo%20long-0001.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25" group-title="DrewFX - Indie" radio="true",Indie X FM
+https://kathy.torontocast.com:2695/stream
+
+#EXTGRP:DrewFX - Jazz
+#EXTINF:-1  tvg-name="Jazz 88.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i0.wp.com/www.gcrcf.org/wp-content/uploads/2023/07/KCCK-IJS-Logo.png?fit=1920%2C1920&ssl=1" group-title="DrewFX - Jazz" radio="true",Jazz 88.3
+https://stream.kcck.org/jazz883kcck
+#EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.smoothjazz.com/sites/default/files/station-logos/smooth-jazz-live-365_0.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz
+https://stream.revma.ihrhls.com/zc4242/hls.m3u8
+#EXTINF:-1  tvg-name="Smooth Jazz 88.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KJLU.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz 88.9
+https://ice8.securenetsystems.net/KJLU
+#EXTINF:-1  tvg-name="Smooth Jazz Box" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s206902g.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Box
+https://streamingv2.shoutcast.com/SmoothJazzBox
+#EXTINF:-1  tvg-name="Smooth Jazz California" tvg-id="Radio.105.Dummy.us" tvg-logo="https://image.live365.com/download/3855e6e0-7938-44b5-9fd6-7851be27d10e.png/1300/image.webp" group-title="DrewFX - Jazz" radio="true",Smooth Jazz California
+http://server.webnetradio.net:5195/;
+#EXTINF:-1  tvg-name="Smooth Jazz CD New York" tvg-id="Radio.105.Dummy.us" tvg-logo="https://image.live365.com/download/0ea84fb5-0bab-4f45-93e2-824489bf088e.jpg/1300/image.webp" group-title="DrewFX - Jazz" radio="true",Smooth Jazz CD New York
+https://listen.shoutcast.com/smoothjazzcd1019newyork
+#EXTINF:-1  tvg-name="Smooth Jazz Florida - Champagne Smooth Jazz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i1.sndcdn.com/artworks-000217374552-tlrute-t500x500.jpg" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Florida - Champagne Smooth Jazz
+http://server.webnetradio.net:5366/;
+#EXTINF:-1  tvg-name="Smooth Jazz Network" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wixstatic.com/media/6c0566_901c482990f74f9aa9695c3295ac1cef~mv2.png/v1/crop/x_0,y_1060,w_5001,h_2827/fill/w_368,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Smooth%20Jazz_Light%20Blue_Registered-01.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Network
+https://stream.revma.ihrhls.com/zc8170/hls.m3u8
 
 #EXTGRP:DrewLive Adult Swim 24/7
 #EXTINF:-1  tvg-name="Adult Swim Daily Animated" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="DrewLive Adult Swim 24/7" radio="false",Adult Swim Daily Animated
@@ -7018,145 +7162,145 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=XUBql9hyg2FWdFiPSs4UXA&expires=1753777313&t=1753734113
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=Zd-YvlZPyN38fuAdOWkZSw&expires=1753766489&t=1753723289
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Atlanta Braves vs. Kansas City Royals
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=cnGzAulK8G5V6ilut5QzLA&expires=1753777349&t=1753734149
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=hPxQozWnFOGxy-ZloJsVaQ&expires=1753766525&t=1753723325
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Boston Red Sox vs. Minnesota Twins
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=YZVBR_QAHXuYAGC2_9K-JQ&expires=1753777358&t=1753734158
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjBlOGIzMjEzNzg1LTMyYzktNDA5NC00MTIyLTgxOGYyODU0/master.m3u8?md5=79KbhMVcYZnGNtgFhpI_Mw&expires=1753766534&t=1753723334
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Chicago Cubs vs. Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=37_6DUo-V5ffbOPiQ3-5sw&expires=1753777367&t=1753734167
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=mtjuKHZrFN-biE4vDhyFyA&expires=1753766543&t=1753723343
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Colorado Rockies vs. Cleveland Guardians
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=UFo-LrEQaNtM9GyujNEQ7w&expires=1753777322&t=1753734122
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=LgQnGq01zsVjgaxoRl5Sgw&expires=1753766499&t=1753723299
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Los Angeles Dodgers vs. Cincinnati Reds
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=QQE4_Qq1ZFz3bg7Rf5RjLQ&expires=1753777340&t=1753734140
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=NI2zjN8IE4b5pV0xhwokTw&expires=1753766516&t=1753723316
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Miami Marlins vs. St. Louis Cardinals
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=yIqkbVDcGArtxUfa_QSIZw&expires=1753777384&t=1753734184
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=p2PxAaOrDTVsuZzFXu0kCA&expires=1753766560&t=1753723360
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",New York Mets vs. San Diego Padres
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=Gz4qH3_1slNVE22nbAoTOQ&expires=1753777411&t=1753734211
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=eJfp0-GCtOG33xdQvJeGYw&expires=1753766586&t=1753723386
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Philadelphia Phillies vs. Chicago White Sox
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=YKmbaHbY1Kp6MWOLTMPaCA&expires=1753777375&t=1753734175
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=ddHhDVT_GYlZiNqv4WxzFA&expires=1753766551&t=1753723351
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Pittsburgh Pirates vs. San Francisco Giants
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=WDAJ-kh4iVo2MQe0aZI_8g&expires=1753777420&t=1753734220
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=PKPKzh__L5YGoTk0C_XCAQ&expires=1753766595&t=1753723395
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Seattle Mariners vs. Athletics
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=6c3B0_s_kgmm_Fm_iWutXw&expires=1753777429&t=1753734229
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=yXyViMchDxE9UzVdLJda9g&expires=1753766604&t=1753723404
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Tampa Bay Rays vs. New York Yankees
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=KoNcSn1uEwoDh7MyybA63g&expires=1753777331&t=1753734131
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=KBF792asKjL7RG4YLObI_Q&expires=1753766507&t=1753723307
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Texas Rangers vs. Los Angeles Angels
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=nZnlahVNhqTBeZ8l2byENg&expires=1753777402&t=1753734202
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=9WH1zpyJdRxw5mhGAV5XjQ&expires=1753766577&t=1753723377
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Toronto Blue Jays vs. Baltimore Orioles
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=HqAqAhYUKem9piEFoPYn8Q&expires=1753777304&t=1753734104
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=d29HNoAQAKbW4xB_-oTTMA&expires=1753766480&t=1753723280
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Washington Nationals vs. Houston Astros
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=Zyi8O2oz-xrLpPHUN8i1mg&expires=1753777393&t=1753734193
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=Mggt0qHylatD-dJrZs7zZQ&expires=1753766568&t=1753723368
 
 #EXTGRP:PPVLand - Basketball Hub
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Liberty at Wings
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Njc3MTc5MGM4NGQyLWQ1YzgtNjRiNC0yNThlLTVkMDZlYjky/master.m3u8?md5=DFLpCRMqnoaMpnYTXenEsQ&expires=1753777447&t=1753734247
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Njc3MTc5MGM4NGQyLWQ1YzgtNjRiNC0yNThlLTVkMDZlYjky/master.m3u8?md5=US681UpGISEXhoV6nqm7eQ&expires=1753766622&t=1753723422
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="PPVLand - Basketball Hub",Storm at Sun
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTM1NjBiYWZmOTI3LTUwNDgtMGMxNC1hOTAwLTVlNTFjZWRi/master.m3u8?md5=8cLy0Vwz8z1jW1iDUiLQqQ&expires=1753777438&t=1753734238
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTM1NjBiYWZmOTI3LTUwNDgtMGMxNC1hOTAwLTVlNTFjZWRi/master.m3u8?md5=8omzdkzYmT2bJYNJxzqO3Q&expires=1753766613&t=1753723413
 
 #EXTGRP:PPVLand - Darts
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 22 - Board 1
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTRhMWI0NTUzOGQ3LTljNjgtNjVjNC0yNzY4LTIwMmVkZWFh/master.m3u8?md5=LakQq8eAWPdmBKcd9ybSvQ&expires=1753777456&t=1753734256
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTRhMWI0NTUzOGQ3LTljNjgtNjVjNC0yNzY4LTIwMmVkZWFh/master.m3u8?md5=yt9X4oxG-g0ibH37-LM-2A&expires=1753766630&t=1753723430
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 22 - Board 2
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjM1ZTRjMmJhZjgzLTk1NTgtOTMxNC1kMzdhLTQ4MzZkYzBk/master.m3u8?md5=aXHR1A3CH3wgkWjQ2bCYVQ&expires=1753777482&t=1753734282
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjM1ZTRjMmJhZjgzLTk1NTgtOTMxNC1kMzdhLTQ4MzZkYzBk/master.m3u8?md5=ox5UBX9Mp8JJmCMg8kTzpg&expires=1753766656&t=1753723456
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 22 - Board 3
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWZhNTc1NmZlYmQ0LTNiMTgtNTYxNC0wNTVhLWQ4ZmY2YzBh/master.m3u8?md5=yoEJGTlJAczWzF_3jqCpuA&expires=1753777464&t=1753734264
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWZhNTc1NmZlYmQ0LTNiMTgtNTYxNC0wNTVhLWQ4ZmY2YzBh/master.m3u8?md5=rDlYE81ZKBZXoGH_ouaVjQ&expires=1753766639&t=1753723439
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="PPVLand - Darts",PDC: Players Championship 22 - Board 4
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmNkZmEwM2Y3NDQ1LWUyOWEtYjFlNC0yMGRiLWRhMjI4NWNh/master.m3u8?md5=ceEVoI_4oxzvqdq-sxq_Lg&expires=1753777473&t=1753734273
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmNkZmEwM2Y3NDQ1LWUyOWEtYjFlNC0yMGRiLWRhMjI4NWNh/master.m3u8?md5=Ha88j5oUz0KON9BuQD4fOw&expires=1753766647&t=1753723447
 
 #EXTGRP:PPVLand - Global Football Streams
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",León vs. CF Montréal
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTE4MzdhMzE5YWE4LTk3NzktMjQ1NC03NGI3LWUzYWM4NDcz/master.m3u8?md5=udvAyCdKQ4JXTm_9bc00Iw&expires=1753777491&t=1753734291
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTE4MzdhMzE5YWE4LTk3NzktMjQ1NC03NGI3LWUzYWM4NDcz/master.m3u8?md5=tW894P-pHjpvteFSS_AUhQ&expires=1753766665&t=1753723465
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Puebla vs. New York City FC
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWUwM2E4ZjBhZWJmLTk0YzgtZTc0NC1jOWI0LWU0M2NmNDc2/master.m3u8?md5=YUrwHc-6zmTVKt5sNj2vXg&expires=1753777509&t=1753734309
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWUwM2E4ZjBhZWJmLTk0YzgtZTc0NC1jOWI0LWU0M2NmNDc2/master.m3u8?md5=PC3GneYUstt0sKsVfs9Vsw&expires=1753766682&t=1753723482
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxMTNwEmZwIzM4IzNtkzNjFWLwYTY00iM1AzNtYGNzQGO2EGN/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=bHaZjlxReQ-kMOPWBT7h-Q&expires=1753766754&t=1753723554
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=aZZxo7909W8m_Ee2AmfBfg&expires=1753777556&t=1753734356
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​‌​‌​​​​‌​​​‌‌‌​​​‌‌​​​‌‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=6mhe8JR_BI7dqiL0Fxt6qA&expires=1753766727&t=1753723527
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​‌​​​‌​​​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ov1tSqgOs8-8DhWWgSqKAQ&expires=1753777565&t=1753734365
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=wLTzgvfc6c1r6m8hVqrGhA&expires=1753766736&t=1753723536
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=TAuS6FXHosiLLs7ySdjdiw&expires=1753777546&t=1753734346
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=K-r2eTA8wWCAjUgNDEdwMQ&expires=1753766718&t=1753723518
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -7166,7 +7310,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjQzZmQzMDdhYTMwLWRiZjktNjU3NC1kMmY4LWE0NjVmZjRh/master.m3u8?md5=ZZt3CUhGaqHRUM3-v5kCRg&expires=1753777595&t=1753734395
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmRzMmR2MwcTYhNDMtQmYmlTL2UzN00CZyYGOtEGN2UjZmRTY/master.m3u8
 
 #EXTGRP:SamsungTVPlus Canada
 #EXTINF:-1  tvg-name="21 Jump Street" tvg-id="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" tvg-chno="1600" group-title="SamsungTVPlus Canada",21 Jump Street
@@ -8917,37 +9061,37 @@ https://jmp2.uk/sam-US270000298.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=O3jRBkIqg95VCpaAW34uhxfXAAvHgC1P8_DapR2qS6Y&e=1753745170
+https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=0wSM6GxxbcYbKkvo-j3lkDEyEtlfFLabxj4z7AYKt84&e=1753734236
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Atlanta Braves vs. Kansas City Royals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=ny2Q4OowznbyrVz5fVuTGNqMyk-eoEVoqEiC8w5sGiA&e=1753745120
+https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=dFyQfYC12zN8sAmqOiN9saWIr8W0zGra2-eKs2EskYU&e=1753734296
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Boston Red Sox vs. Minnesota Twins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=W4mW3N4NROSzlG8LhmYwbhPXtGRD2uIwLyjOhOQVvEc&e=1753745158
+https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=RIfQe9jE3Tz2QIQK2UYWBWbkBNnl0dfFtfWKOQR8kPM&e=1753734255
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Chicago Cubs vs. Milwaukee Brewers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=EGwtyj31oZPmsdgi2sn-DzXCwVLhO1EMLH4lQ1wvg_A&e=1753745166
+https://edge1caster.pro/hls/ojzkajnach21.m3u8?st=I-NodXnWPztre8gDtuPsazsXrgr0uDvRSgeFn6zQSqU&e=1753734245
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Colorado Rockies vs. Cleveland Guardians Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/dazhfiach15.m3u8?st=kh66SIl5rYYjeCs481rSwE6ELohZHrzB0dobTGS3NZo&e=1753745186
+https://eastcaster.pro/hls/dazhfiach15.m3u8?st=zYAzgUGP2L3L_KZrZOFFgCDwT9AAfXeuKlWSwOkQJuE&e=1753734281
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. Cincinnati Reds Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=kY_g3wdaChvjGh-4zpzC3lGlLXlq2NP8D8yytGXx78c&e=1753745181
+https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=7kx44xW1VIKZe09MEfPeQwGmv-G4P-5ZnGH2tyMcpos&e=1753734232
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Miami Marlins vs. St. Louis Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/fskjanach24.m3u8?st=IUfZo3kIKD68p55r5mPUkQvF5lJ0O6sOSa8GrcGRKc4&e=1753745197
+https://edge1caster.pro/hls/fskjanach24.m3u8?st=wXRF3onYemISOulNaRXEpCwNsMQCNHBLjHM49rh_Sbg&e=1753734259
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",New York Mets vs. San Diego Padres Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
@@ -8957,115 +9101,115 @@ https://live.webcastserver.online/hdstream/embed/387.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=H6WF1b427dr2w1RbFGh2NEKNNb8L3nGjz0LnhLsu2r8&e=1753745140
+https://eastcaster.pro/hls/ihfazugfyjcazich17.m3u8?st=9lLgXhOlKeCW0ZCiIQyP023UUQpBWoBRRWdH4D9tM-s&e=1753734194
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Pittsburgh Pirates vs. San Francisco Giants Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=UQCOAdicllRwksz1SHOFX6Y_w_hKzcQpTQ9ZNjxBCjs&e=1753745212
+https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=x7IFZ5RB7x027SHYQOj148g2mQFbA8kkIPe4zwtmeJg&e=1753734217
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Seattle Mariners vs. Athletics Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=Fqvdg1vRwu0ycW1Zb5nTWsGlCRAWbcqcoiTMP8BXQvM&e=1753745162
+https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=K3QkzCLxndDwm4KqbDywRkfd8w4S9l0jrWGX7jIwgRY&e=1753734241
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Tampa Bay Rays vs. New York Yankees Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=Sex20XZt8lIVZkMm0QvAwGzaIE-Ah4OYaUOk4nhDQ_Q&e=1753745202
+https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=Y0MqSbFyc9YB2-L9SObxOJ7IexT9YSurB3m5hcBE9GQ&e=1753734273
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Texas Rangers vs. Los Angeles Angels Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=TGv6bReioLrxoJ_HBqo9VMBfwdhI2PwqOFH1uxCsOdY&e=1753745127
+https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=EboVMAMlZPtzxdi_LHO_jHxe2tJzSE8VkKLeyaGmRXM&e=1753734250
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Toronto Blue Jays vs. Baltimore Orioles Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=0Nb92HF19n7CknAqYQLzUXy36owEk0pPADRQmq3jqdQ&e=1753745206
+https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=jtOdVyaxgCHRpuf3kA6ZVPZdzE77BQW0XAFIc0zA8a4&e=1753734199
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Washington Nationals vs. Houston Astros Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/kjhfzua25.m3u8?st=ApicnbztRs5CQgqdZbA9GKi5Ggk3swkkBOCOpzAYIOc&e=1753745175
+https://edge1caster.pro/hls/kjhfzua25.m3u8?st=lMTxRcKB8wyD3tOF_Vhp4z9H1O6dNbw9bA4PwHyA1hk&e=1753734288
 
 #EXTGRP:StreamEast - Basketball Hub
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",New York Liberty vs. Dallas Wings Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ3/index.m3u8?st=MmKPbHg8BSfvAVydrH9WuQ&e=1753745116
+https://nextcast.click/hls/HDGQ3/index.m3u8?st=bVNhDuJBN0d8PfvWwM4bvg&e=1753734205
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="StreamEast - Basketball Hub",Seattle Storm vs. Connecticut Sun Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/xscqqza8740.m3u8?st=62w7NgB0EUrT7oUkkXAxhYrwXwgQ2lORuyDUCtS5TDc&e=1753745189
+https://edge1caster.pro/hls/xscqqza8740.m3u8?st=yjEYYIHywh2dy_TN0wequSXbIh1aV_gKYh_BHmw4rzQ&e=1753734210
 
 #EXTGRP:StreamEast - F1
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 1 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=vWYkgqvUokSdcvZOnQhL_g&e=1753745156
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=IAbIw_hb9KdWcPANAR-CjA&e=1753734221
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 2 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=DD-CWPYbO3LQdtYauOugWQ&e=1753745178
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=ltR-ziKwRxkjJbyLKJ6hxQ&e=1753734292
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Free Practice 3 Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=awDbLEy-InXWdtr1nutn4A&e=1753745109
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=EPWbySvzH6-z145O9ttUyw&e=1753734189
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=YR9X-cuHQlQ8w4OjMAKrmw&e=1753745112
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=k1YilEaKbwWAh48DahkBgg&e=1753734186
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" group-title="StreamEast - F1",F1 Hungarian GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ24/index.m3u8?st=edCazxv2KU6l6bHY3gXOtA&e=1753745200
+https://nextcast.click/hls/HDGQ24/index.m3u8?st=A5Ery8S6ZM3YeEq_1cwxuQ&e=1753734213
 
 #EXTGRP:StreamEast - MMA
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Albazi vs. Taira Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ21/index.m3u8?st=R7k9gHF736dJVIrGm8TO0g&e=1753745149
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=hIfFl2NIiwgvOhmq6ksKjw&e=1753734285
 
 #EXTGRP:StreamEast - Soccer
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",CF Montréal vs. León Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ7/index.m3u8?st=HF3B_x6jzXwLHxkDG7-x-g&e=1753745136
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=XIDQKkIgiZ7xYvppBEpbdw&e=1753734264
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",LAFC vs. Mazatlán FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ7/index.m3u8?st=CAm7BDE5qjZgQsBmOvLncA&e=1753745144
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=D2iS-7yB2T198IwdF1n09A&e=1753734277
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",New York City FC vs. Puebla Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ7/index.m3u8?st=HVIXDydcyAzfzqc-FR58ug&e=1753745132
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=B2NIZ1d5XtKgrZj3oDTiVA&e=1753734226
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Pachuca vs. San Diego FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ7/index.m3u8?st=32_1qWClUPk7_BVULGBqaw&e=1753745194
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=TWTc32VmhfVG8KTTikl9pQ&e=1753734230
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Tigres UANL vs. Houston Dynamo FC Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ7/index.m3u8?st=GKMpySHMjiTMA9mMoGsMlA&e=1753745209
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=xPhwJaEUaCvtKV5uhfKIWw&e=1753734183
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Toluca vs. Columbus Crew Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ7/index.m3u8?st=uxh5BLWTlVwB_x7DwrdNXg&e=1753745153
+https://nextcast.click/hls/HDGQ7/index.m3u8?st=UCk28GOqpZIFrovgNlY9FQ&e=1753734270
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/pQpb4BualR6eug==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjdAAQ==" group-title="TubiTV",A&E Crime 360
