@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-# Last forced update: 2025-08-08T13:08:49.196141Z
+# Last forced update: 2025-08-08T13:48:32.253301Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -4576,17 +4576,17 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
 
 #EXTGRP:NFL
-#EXTINF:-1 tvg-id="" tvg-name="Cleveland Browns @ Carolina Panthers (08/08 7:00 PM ET) HD" group-title="NFL",Cleveland Browns @ Carolina Panthers (08/08 7:00 PM ET) HD
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cleveland Browns @ Carolina Panthers (08/08 7:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Cleveland Browns @ Carolina Panthers (08/08 7:00 Pm Et) Hd
 https://tvpass.org/live/NFLNetwork/hd
-#EXTINF:-1 tvg-id="" tvg-name="Cleveland Browns @ Carolina Panthers (08/08 7:00 PM ET) SD" group-title="NFL",Cleveland Browns @ Carolina Panthers (08/08 7:00 PM ET) SD
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cleveland Browns @ Carolina Panthers (08/08 7:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Cleveland Browns @ Carolina Panthers (08/08 7:00 Pm Et) Sd
 https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Lions @ Atlanta Falcons (08/08 7:00 PM ET) HD" group-title="NFL",Detroit Lions @ Atlanta Falcons (08/08 7:00 PM ET) HD
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Detroit Lions @ Atlanta Falcons (08/08 7:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Detroit Lions @ Atlanta Falcons (08/08 7:00 Pm Et) Hd
 https://tvpass.org/live/NFL01/hd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Lions @ Atlanta Falcons (08/08 7:00 PM ET) SD" group-title="NFL",Detroit Lions @ Atlanta Falcons (08/08 7:00 PM ET) SD
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Detroit Lions @ Atlanta Falcons (08/08 7:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Detroit Lions @ Atlanta Falcons (08/08 7:00 Pm Et) Sd
 https://tvpass.org/live/NFL01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Commanders @ New England Patriots (08/08 7:30 PM ET) HD" group-title="NFL",Washington Commanders @ New England Patriots (08/08 7:30 PM ET) HD
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ New England Patriots (08/08 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Washington Commanders @ New England Patriots (08/08 7:30 Pm Et) Hd
 https://tvpass.org/live/NFL02/hd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Commanders @ New England Patriots (08/08 7:30 PM ET) SD" group-title="NFL",Washington Commanders @ New England Patriots (08/08 7:30 PM ET) SD
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ New England Patriots (08/08 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Washington Commanders @ New England Patriots (08/08 7:30 Pm Et) Sd
 https://tvpass.org/live/NFL02/sd
 
 #EXTGRP:PlexTV
