@@ -3347,7 +3347,7 @@ http://drewlive24.duckdns.org:8080/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://rumble.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://1a-1791.com/live/t5qc33px/live-hls/bvoy-ccia/chunklist_i1_DVR.m3u8
-#EXTINF:-1  tvg-name="🔴 [HD+] Electronic Music Experience from Clubs, Events, Festivals and Studio Sessions 🎧🎶" tvg-id="24.7.Dummy.us" tvg-logo="https://pngimg.com/uploads/music_notes/music_notes_PNG3.png" group-title="DrewLive Fan Made TV" radio="false",Festivals and Studio Sessions 🎧🎶
+#EXTINF:-1  tvg-name="🔴 [HD+] Electronic Music Experience from Clubs, Events, Festivals and Studio Sessions 🎧🎶" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Music.png" group-title="DrewLive Fan Made TV" radio="false",Festivals and Studio Sessions 🎧🎶
 #EXTVLCOPT:http-referrer=https://rumble.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://1a-1791.com/live/t34ch9px/slot-62/2miz-6j6c/chunklist.m3u8
@@ -3389,6 +3389,8 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1  tvg-name="Whiplash" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/whiplash.png" group-title="DrewLive Fan Made TV" radio="false",Whiplash
 https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
+#EXTINF:-1  tvg-name="Whiplash Cinema" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/whiplashcinema.png" group-title="DrewLive Fan Made TV" radio="false",Whiplash Cinema
+https://rhine.webchnl.live/memfs/3727506f-9e14-4f8e-af12-cdc8c597640c.m3u8
 
 #EXTGRP:DrewLive Music Video Channels
 #EXTINF:-1  tvg-name="iHeartRadio Hip Hop Beats (DrewLive)" tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/600x337.webp?type=channelTile" group-title="DrewLive Music Video Channels" radio="false",iHeartRadio Hip Hop Beats (DrewLive)
