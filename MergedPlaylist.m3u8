@@ -6783,6 +6783,16 @@ https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-a
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993020/600x200.png?type=white_cropped" group-title="LGTV USA",She Wrote
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993020/hls/master.m3u8?ads.xumo_channelId=99993020&ads.asnw=169843&ads.afid=380744959&ads.sfid=17538085&ads.csid=lgchannels_us_nbcumurdershewrote_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tvg&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3927&ads.xumo_contentName=NBCUMurderSheWrote&ads.xumo_providerId=3927&ads.xumo_providerName=NBCUMurderSheWrote&ads.channelId=99993020&ads._fw_ifa_type=dpid
 
+#EXTGRP:NHL
+#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ Washington Capitals (10/08 7:40 PM ET)" group-title="NHL",Boston Bruins @ Washington Capitals (10/08 7:40 PM ET)
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Edmonton Oilers (10/08 10:10 PM ET)" group-title="NHL",Calgary Flames @ Edmonton Oilers (10/08 10:10 PM ET)
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ Vegas Golden Knights (10/08 10:10 PM ET)" group-title="NHL",Los Angeles Kings @ Vegas Golden Knights (10/08 10:10 PM ET)
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="" tvg-name="Montréal Canadiens @ Toronto Maple Leafs (10/08 7:10 PM ET)" group-title="NHL",Montréal Canadiens @ Toronto Maple Leafs (10/08 7:10 PM ET)
+https://tvpass.org/live/sportsnet-one/sd
+
 #EXTGRP:PlexTV
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="PlexTV",123GO!
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -14464,3 +14474,35 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
+
+#EXTGRP:TVPass - MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ Chicago Cubs (10/08 5:08 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Milwaukee Brewers @ Chicago Cubs (10/08 5:08 Pm Et)
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Los Angeles Dodgers (10/08 9:08 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Philadelphia Phillies @ Los Angeles Dodgers (10/08 9:08 Pm Et)
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Detroit Tigers (10/08 3:08 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Detroit Tigers (10/08 3:08 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ New York Yankees (10/08 7:08 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ New York Yankees (10/08 7:08 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Memphis Grizzlies (10/08 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Boston Celtics @ Memphis Grizzlies (10/08 8:10 Pm Et)
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Golden State Warriors (10/08 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Portland Trail Blazers @ Golden State Warriors (10/08 10:10 Pm Et)
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ Miami Heat (10/08 7:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",San Antonio Spurs @ Miami Heat (10/08 7:40 Pm Et)
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Sacramento Kings (10/08 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Toronto Raptors @ Sacramento Kings (10/08 10:10 Pm Et)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Houston Rockets (10/08 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Utah Jazz @ Houston Rockets (10/08 8:10 Pm Et)
+https://tvpass.org/live/space-city-home-network/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Liberty Flames @ Utep Miners (10/08 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Liberty Flames @ Utep Miners (10/08 8:00 Pm Et)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Missouri State Bears @ Middle Tennessee Blue Raiders (10/08 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Missouri State Bears @ Middle Tennessee Blue Raiders (10/08 7:30 Pm Et)
+https://tvpass.org/live/ESPN2/sd
+
+#EXTGRP:TVPass - WNBA
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Las Vegas Aces @ Phoenix Mercury (10/08 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="TVPass - WNBA",Las Vegas Aces @ Phoenix Mercury (10/08 8:00 Pm Et)
+https://tvpass.org/live/ESPN/sd
