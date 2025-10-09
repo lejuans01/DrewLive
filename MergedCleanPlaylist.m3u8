@@ -594,6 +594,10 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png" group-title="AriaPlus - Canada",Zeste
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
 
+#EXTGRP:AriaPlus - Japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43304/2e678067-e153-4991-a150-58ced8360d63.png?w=800&h=800" group-title="AriaPlus - Japan",WOWOW Prime
+https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
+
 #EXTGRP:AriaPlus - New Zealand
 #EXTINF:-1 tvg-logo="https://tv.wyatts-server.com/imagecache/6815" tvg-id="f52cf6d5294321bb94a2adcb30ca2d0e" group-title="AriaPlus - New Zealand",Bravo
 https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
